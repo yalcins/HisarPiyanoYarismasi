@@ -234,21 +234,21 @@ body {
 .nav > li > a:hover,
 .nav > li > a:focus {
     background-color: #FFF;  /* NAVIGATION BAR COLOR NAV BAR COLOR NAVBAR COLOR */
-    color:#5d9cff;
+    color:#7222A1;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
     background-color: #FFF;
-    color:#5d9cff;
+    color:#7222A1;
 }
 
 
 .nav > li > a {
-    color: #5d9cff;
+    color: #7222A1;
 }
 .navbar-default {
-    background-color:#5d9cff;
+    background-color:#7222A1;
     border:none;
 }
 
@@ -256,7 +256,7 @@ body {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
     background-color: #FFF;
-    color:#5d9cff;
+    color:#7222A1;
 }
 
 .navbar {
@@ -271,7 +271,7 @@ body {
 }
 
 .templatemo-header-orange {
-    background-color:#5d9cff;
+    background-color:#7222A1;
     min-width: 298px;
     height: 67px;
     color: #fff; 
