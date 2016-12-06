@@ -9,7 +9,7 @@ jQuery(function($) {
             // load google map
         var script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' +
+        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyCW2Cy_jj3cNiqfkS3uMSGxj0YTc67lZJE&callback=initMap&sensor=false&' +
             'callback=initialize';
         document.body.appendChild(script);
 
