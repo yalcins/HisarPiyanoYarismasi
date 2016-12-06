@@ -9,7 +9,9 @@ http://www.templatemo.com/preview/templatemo_395_urbanic
 
 body, html { overflow-x:hidden; }
 
-
+body {
+    font-family:  'Helvetice Neue', sans-serif;
+}
 
 * {
   -webkit-border-radius: 0 !important;
