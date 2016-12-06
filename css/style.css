@@ -13,7 +13,7 @@
 	font-style: normal;
 }
 body {
-	background-color: #fff;
+	background-color: #79c2ff; 
 	font-family: 'OpenSans';
 	margin: 0;
 }
@@ -52,12 +52,15 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background-color: #79c2ff;
+	background-color: #5d9cff;
 	border-bottom: 1px solid #e6e6e6;
 	padding: 0px 0;
+	align-items: center;
+	vertical-align: center;
+	text-align: center;
 }
 #header > div, #footer > div {
-	width: 920px;
+	/*width: 920px;*/
 	margin: 0 auto;
 	padding: 0 20px;
 }
@@ -70,9 +73,6 @@ img {
 	/*background: url(../images/logo.png);*/
 	color: #000;
 	display: block;
-	font: 15px/30px 'Play';
-	height: 20px;
-	width: 76px;
 	padding-top: 68px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -93,7 +93,7 @@ img {
 }
 #navigation li {
 	float: left;
-	width: 160px;
+	width: 150px;
 	text-align: center;
 }
 #navigation li a {
@@ -106,7 +106,7 @@ img {
 	color: #000;
 }
 #navigation li.active a {
-	color: #f99600;
+	color: #FFFFFF;
 }
 #adbox {
 	background: url(../images/bg-adbox.jpg) repeat-x left center;
